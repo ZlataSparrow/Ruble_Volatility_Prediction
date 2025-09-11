@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "./ruble-env/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "jupyter.kernels.filter": [
+        {
+            "path": "./ruble-env/bin/python",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
