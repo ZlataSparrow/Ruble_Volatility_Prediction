@@ -1,4 +1,4 @@
-#!/workspaces/Ruble_Volatility_Prediction2/ruble-env/bin/python3
+#!/Users/zlatavorobeva/Documents/GitHub/Ruble_Volatility_Prediction2/Ruble_Volatility_Prediction2/ruble-env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
