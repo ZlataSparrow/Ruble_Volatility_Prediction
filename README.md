@@ -37,13 +37,14 @@ The following datasets are used in this project:
   Includes normalization across the 1998 currency redenomination.
 - ([02_Exploratory_Data_Analysis.ipynb](02_Exploratory_Data_Analysis.ipynb))
 
-  Handles the initial loading, merging, and cleaning of exchange rate data and macroeconomic indicators.
-  Includes normalization across the 1998 currency redenomination.
-- ([03_Time_Series_ARIMA_Modeling.ipynb](03_Time_Series_ARIMA_Modeling.ipynb))
-
   Visualizes long-term RUB/USD trends alongside key macro variables (Brent oil, GDP, inflation, FDI).
   Includes rolling statistics, correlation heatmaps, and seasonal decomposition to identify structural breaks and macro shocks (1998, 2014, 2022).
   Prepares lagged variables and shock dummies for modeling.
+- ([03_Time_Series_ARIMA_Modeling.ipynb](03_Time_Series_ARIMA_Modeling.ipynb))
+
+  Builds and compares ARIMA and ARIMAX models with different exogenous macro variables.
+  Tests log transformations, lag structures, and rolling/expanding window forecasts for 2024–2025 holdouts.
+  Identifies the best-performing ARIMAX specification for forecasting RUB/USD.
 - `03_Time_Series_ARIMA_Modeling.ipynb`
   Builds and compares ARIMA and ARIMAX models with different exogenous macro variables.
   Tests log transformations, lag structures, and rolling/expanding window forecasts for 2024–2025 holdouts.
