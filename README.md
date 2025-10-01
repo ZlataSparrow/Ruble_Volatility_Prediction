@@ -1,4 +1,4 @@
-# Ruble_Volatility_Prediction
+# Ruble Volatility Prediction
 Time series forecasting of Russian currency volatility using macroeconomic indicators
 
 ## 📊 Ruble Volatility Prediction Project
