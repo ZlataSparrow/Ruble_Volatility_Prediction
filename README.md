@@ -32,12 +32,15 @@ The following datasets are used in this project:
 ## 📁 Notebooks
 
 - ([01_Data_Input_and_Cleaning.ipynb](01_Data_Input_and_Cleaning.ipynb))
+
   Handles the initial loading, merging, and cleaning of exchange rate data and macroeconomic indicators.  
   Includes normalization across the 1998 currency redenomination.
 - ([02_Exploratory_Data_Analysis.ipynb](02_Exploratory_Data_Analysis.ipynb))
+
   Handles the initial loading, merging, and cleaning of exchange rate data and macroeconomic indicators.
   Includes normalization across the 1998 currency redenomination.
 - ([03_Time_Series_ARIMA_Modeling.ipynb](03_Time_Series_ARIMA_Modeling.ipynb))
+
   Visualizes long-term RUB/USD trends alongside key macro variables (Brent oil, GDP, inflation, FDI).
   Includes rolling statistics, correlation heatmaps, and seasonal decomposition to identify structural breaks and macro shocks (1998, 2014, 2022).
   Prepares lagged variables and shock dummies for modeling.
