@@ -1,7 +1,5 @@
-# Ruble Volatility Prediction
+# 📊 Ruble Volatility Prediction Project
 Time series forecasting of Russian currency volatility using macroeconomic indicators
-
-## 📊 Ruble Volatility Prediction Project
 
 This repository explores the long-term volatility of the Russian ruble (RUB ₽) using macroeconomic and geopolitical data from 1992 to 2025. 
 The project includes:
