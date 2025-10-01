@@ -43,10 +43,7 @@ The following datasets are used in this project:
   Builds and compares ARIMA and ARIMAX models with different exogenous macro variables.
   Tests log transformations, lag structures, and rolling/expanding window forecasts for 2024–2025 holdouts.
   Identifies the best-performing ARIMAX specification for forecasting RUB/USD.
-- `03_Time_Series_ARIMA_Modeling.ipynb`
-  Builds and compares ARIMA and ARIMAX models with different exogenous macro variables.
-  Tests log transformations, lag structures, and rolling/expanding window forecasts for 2024–2025 holdouts.
-  Identifies the best-performing ARIMAX specification for forecasting RUB/USD.
+
 - `04_Advanced_Modeling_and_ML.ipynb` (coming soon)
   Extends the project with non-linear and machine learning models such as Gradient Boosting and XGBoost.
   Compares their performance to ARIMAX using the same rolling-window setup to evaluate whether ML can outperform traditional time series methods.
