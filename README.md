@@ -29,7 +29,8 @@ The following datasets are used in this project:
 
 ## 📁 Notebooks
 
-- ([01_Data_Input_and_Cleaning.ipynb](01_Data_Input_and_Cleaning.ipynb))
+- [01_Data_Input_and_Cleaning.ipynb](01_Data_Input_and_Cleaning.ipynb)  
+  <sub>Click the link above to open the notebook. If it doesn't open, make sure the file exists in the repository and that you are viewing this README on GitHub or a compatible markdown viewer.</sub>
 
   Handles the initial loading, merging, and cleaning of exchange rate data and macroeconomic indicators.  
   Includes normalization across the 1998 currency redenomination.
